@@ -62,7 +62,7 @@ Autonomity is an agentic honeypot API that simulates realistic victims of scam a
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/AkshayBasutkar/autonomity.git
+git clone https://github.com/<your-username>/autonomity.git
 cd autonomity
 ```
 
@@ -135,7 +135,7 @@ Processes a message from a potential scammer and generates an agent response.
   "message": {
     "sender": "scammer",
     "text": "Your account will be blocked! Send OTP immediately.",
-    "timestamp": "2024-01-01T12:00:00Z"
+    "timestamp": "2026-02-04T12:00:00Z"
   },
   "conversationHistory": [],
   "metadata": {
